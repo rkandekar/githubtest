@@ -11,3 +11,5 @@ git commit -m # will take all green marked file firstGit.py commit locally
 git config --global user.email "rkandekar@gmail.com" # it might also ask for login with github user first time
 git log # gives all history logs
 clear # command to clear the console
+git status # double to check if anything to commite
+git push # push the code to github
