@@ -1,4 +1,4 @@
 # githubtest
 test github code repo
 command:
-git clone 
+git clone https://github.com/rkandekar/githubtest.git
