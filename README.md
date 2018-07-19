@@ -12,4 +12,4 @@ git config --global user.email "rkandekar@gmail.com" # it might also ask for log
 git log # gives all history logs
 clear # command to clear the console
 git status # double to check if anything to commite
-git push # push the code to github
+git push # push the code to github... push commited changes to remote server (github in this case)
